@@ -1,0 +1,3 @@
+com\example\contact\ContactApplicationTest.class
+com\example\contact\service\ContactServiceImplTest.class
+com\example\contact\controller\ContactControllerTest.class

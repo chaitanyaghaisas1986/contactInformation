@@ -1,0 +1,12 @@
+com\example\contact\bean\ContactBean.class
+com\example\contact\exception\ContactNotFoundException.class
+com\example\contact\validator\EmailValidation.class
+com\example\contact\Repository\ContactRepository.class
+com\example\contact\controller\ContactController.class
+com\example\contact\ContactApplication.class
+com\example\contact\exception\InvalidInputException.class
+com\example\contact\exception\ErrorResponse.class
+com\example\contact\service\ContactServiceImpl.class
+com\example\contact\exception\ContactExceptionHandler.class
+com\example\contact\service\ContactService.class
+com\example\contact\model\Contact.class
